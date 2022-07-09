@@ -13,6 +13,8 @@ const TransformLogic = () => {
         console.log(data)
     }
 
+    
+
 
     const Subtraction = () => {
         setData1(78)
